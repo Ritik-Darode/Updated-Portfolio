@@ -91,7 +91,7 @@ This project is configured for one-click deployment via GitHub Pages:
 ## 📬 Contact & Connect
 
 * **Email**: [ritikdaroderrd988@gmail.com](mailto:ritikdaroderrd988@gmail.com)
-* **LinkedIn**: [https://www.linkedin.com/in/ritik-darode-ai-graduate/](https://www.linkedin.com/in/ritik-darode-ai-graduate/)
+* **LinkedIn**: [https://www.linkedin.com/in/ritik-darode/](https://www.linkedin.com/in/ritik-darode/)
 * **GitHub**: [https://github.com/Ritik-Darode](https://github.com/Ritik-Darode)
 
 ---
