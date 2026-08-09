@@ -57,17 +57,24 @@ To run and view this project locally on your machine:
    cd Updated-Portfolio
    ```
 
-2. **Serve the project using Python or HTTP server**:
+2. **Serve the project using HTTP server**:
    ```bash
-   # Option A: Using Python built-in server
-   python -m http.server 8000
+   # Option A: Using Node http-server (Recommended)
+   npx http-server -p 5500
 
-   # Option B: Using Node http-server
-   npx http-server -p 8000
+   # Option B: Using Python built-in server
+   python -m http.server 5500
    ```
 
 3. **Open in Browser**:
-   Navigate to `http://localhost:8000`
+   Navigate to `http://localhost:5500`
+
+4. **Generate a Live Shareable Link (Tunneling)**:
+   If you want to share a live URL of your local project with others without deploying it, you can tunnel your local server using `localtunnel`:
+   ```bash
+   npx localtunnel --port 5500
+   ```
+   This will instantly generate a public, temporary URL (e.g., `https://flat-dodos-unite.loca.lt`) pointing to your local machine.
 
 ---
 
