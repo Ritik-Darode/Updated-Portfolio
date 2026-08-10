@@ -31,8 +31,10 @@ A high-performance, responsive developer portfolio showcasing projects, technica
 
 ```
 Updated Portfolio/
-├── assets/                  # Optimized media assets & profile imagery
-│   └── Ritik Darode.jpg     # Profile photo
+├── assets/                  # Organized media assets, resumes & certifications
+│   ├── Profile pic/         # Profile photo
+│   ├── Resumes/             # Professional resume files
+│   └── certification new/   # Professional certification documents
 ├── index.html               # Main single-page web app entry point
 ├── .nojekyll                # Disables Jekyll processing on GitHub Pages
 ├── .gitignore               # Excludes OS metadata & IDE config files
